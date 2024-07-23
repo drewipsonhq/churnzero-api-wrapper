@@ -22,7 +22,7 @@ pip install churnzero_api_wrapper
 
 ## Usage
 
-To use the ChurnZero Python API Wrapper, you need to import the `ChurnZeroClient` class from the package:
+To use the ChurnZero Python API Wrapper, you need to import the `HTTPClient` class from the package:
 
 ```python
 from churnzero_api_wrapper import HTTPClient
