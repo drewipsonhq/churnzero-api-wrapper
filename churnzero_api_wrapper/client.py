@@ -6,7 +6,7 @@ from urllib3.util import Retry
 from churnzero_api_wrapper.logger import setup_logger
 
 logger = setup_logger()
-__version__ = "0.2.2"
+__version__ = "0.2.3"
 
 
 class HTTPClient(Session):

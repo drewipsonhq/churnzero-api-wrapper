@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="churnzero-api-wrapper",
-    version="0.2.2",
+    version="0.2.3",
     author="Drew Ipson",
     author_email="drewipson@gmail.com",
     description="A Python wrapper for the ChurnZero HTTP API",
@@ -20,7 +20,6 @@ setup(
     classifiers=[
         "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",
-        "Programming Language :: Python :: 3.11",
         "Programming Language :: Python :: 3",
     ],
     install_requires=["requests>=2.32.3"],

@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "churnzero-api-wrapper"
-version = "0.2.2"
+version = "0.2.3"
 description = "A python package that wraps ChurnZero's HTTP API for easier usage of their HTTP API."
 authors = ["Drew Ipson <drewipson@gmail.com>"]
 license = "MIT"
@@ -8,7 +8,7 @@ readme = "README.md"
 packages = [{include = "churnzero_api_wrapper"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.0"
 requests = "^2.32.3"
 
 
