@@ -17,7 +17,7 @@ Other features may be supported in the future.
 To install the ChurnZero Python API Wrapper, you can use pip:
 
 ```shell
-pip install churnzero_api_wrapper
+pip install churnzero-api-wrapper
 ```
 
 ## Usage
